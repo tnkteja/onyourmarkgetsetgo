@@ -24,3 +24,4 @@ No binding with shared object after compiling, just load the plugin at runtime a
 # References
 1. _https://hashrocket.com/blog/posts/switch-vs-map-which-is-the-better-way-to-branch-in-go_
 2. _https://jeremywho.com/go-1.8---plugins/_
+3. _https://medium.com/@noahdietz/shackles-chain-your-app-to-the-world-de0934472f7f#.b4g71e8by_
