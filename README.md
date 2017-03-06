@@ -17,3 +17,4 @@ branches|version
 
 # References
 1. _https://hashrocket.com/blog/posts/switch-vs-map-which-is-the-better-way-to-branch-in-go_
+2. _https://jeremywho.com/go-1.8---plugins/_
