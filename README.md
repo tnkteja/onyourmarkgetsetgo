@@ -26,3 +26,4 @@ No binding with shared object after compiling, just load the plugin at runtime a
 2. _https://jeremywho.com/go-1.8---plugins/_
 3. _https://medium.com/@noahdietz/shackles-chain-your-app-to-the-world-de0934472f7f#.b4g71e8by_
 4. _http://blog.ralch.com/tutorial/_
+5. _https://github.com/pegasuskim/design-patterns-in-golang_
