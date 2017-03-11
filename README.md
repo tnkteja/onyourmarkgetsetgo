@@ -21,6 +21,11 @@ No binding with shared object after compiling, just load the plugin at runtime a
 
 > map version gives better performance than the switch-case
 
+
+```
+Now available jupyter notebook on golang [8]
+```
+
 # References
 1. _https://hashrocket.com/blog/posts/switch-vs-map-which-is-the-better-way-to-branch-in-go_
 2. _https://jeremywho.com/go-1.8---plugins/_
@@ -29,3 +34,4 @@ No binding with shared object after compiling, just load the plugin at runtime a
 5. _https://github.com/pegasuskim/design-patterns-in-golang_
 6. _https://talks.golang.org/2013/bestpractices.slide#27_
 7. _https://splice.com/blog/lesser-known-features-go-test/_
+8. _http://www.datadan.io/announcing-a-golang-kernel-for-jupyter-notebooks/_
