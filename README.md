@@ -35,3 +35,4 @@ Now available jupyter notebook on golang [8]
 6. _https://talks.golang.org/2013/bestpractices.slide#27_
 7. _https://splice.com/blog/lesser-known-features-go-test/_
 8. _http://www.datadan.io/announcing-a-golang-kernel-for-jupyter-notebooks/_
+9. _http://hackthology.com/object-oriented-inheritance-in-go.html_
